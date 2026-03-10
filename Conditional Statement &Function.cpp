@@ -7,3 +7,7 @@ struct pemesan
     string nomoridentitas;
     string kategoritiket;
 };
+
+int main()
+{
+}
