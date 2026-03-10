@@ -24,4 +24,12 @@ int main()
 
     cout << "Masukan jumlah tiket = ";
     cin >> jumlahtiket;
+
+    cout << "\nTampilkan Pemesanan\n";
+    cout << "Nama Pemesan = " << orang1.namapemesan << endl;
+    cout << "Nomor Identitas = " << orang1.nomoridentitas << endl;
+    cout << "Kategori Tiket = " << orang1.kategoritiket << endl;
+    cout << "Jumlah Tiket = " << jumlahtiket << endl;
+
+    return 0;
 } 
