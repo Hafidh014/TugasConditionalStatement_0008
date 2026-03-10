@@ -10,4 +10,6 @@ struct pemesan
 
 int main()
 {
-}
+    pemesan orang1;
+    int jumlahtiket;
+} 
