@@ -15,4 +15,13 @@ int main()
 
     cout << "Masukan nama pemesan = ";
     cin >> orang1.namapemesan;
+    
+    cout << "Masukan nomor identitas = ";
+    cin >> orang1.nomoridentitas;
+
+    cout << "Masukan kategori tiket = ";
+    cin >> orang1.kategoritiket;
+
+    cout << "Masukan jumlah tiket = ";
+    cin >> jumlahtiket;
 } 
