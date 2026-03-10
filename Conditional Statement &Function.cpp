@@ -12,4 +12,7 @@ int main()
 {
     pemesan orang1;
     int jumlahtiket;
+
+    cout << "Masukan nama pemesan = ";
+    cin >> orang1.namapemesan;
 } 
